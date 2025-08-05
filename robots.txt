@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://morilab-uosaka.github.io//sitemap.xml
+Sitemap: https://morilab-uosaka.github.io/sitemap.xml
