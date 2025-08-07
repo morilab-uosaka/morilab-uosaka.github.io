@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "公表論文",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-news",
+  },{id: "nav-news",
           title: "news",
           description: "ニュース",
           section: "Navigation",
@@ -37,20 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/member/";
           },
-        },{id: "nav-gallery",
-          title: "gallery",
-          description: "ギャラリー",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/gallery/";
-          },
-        },{id: "nav-links",
-          title: "links",
-          description: "リンク",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/links/";
-          },
         },{id: "dropdown-publications",
               title: "publications",
               description: "",
@@ -65,7 +44,21 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/presentations/";
               },
-            },{id: "nav-join-us",
+            },{id: "nav-gallery",
+          title: "gallery",
+          description: "ギャラリー",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
+          },
+        },{id: "nav-links",
+          title: "links",
+          description: "リンク",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/links/";
+          },
+        },{id: "nav-join-us",
           title: "join us",
           description: "メンバー募集",
           section: "Navigation",
