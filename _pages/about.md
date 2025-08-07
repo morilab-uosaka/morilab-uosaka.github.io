@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: 森研究室＠大阪大学環境安全研究管理センター
+subtitle: <b>森研究室</b>＠大阪大学環境安全研究管理センター
 
 profile:
   align: right
