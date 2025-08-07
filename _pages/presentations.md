@@ -2,8 +2,8 @@
 layout: page
 permalink: /presentations/
 title: presentations
+description: 学会発表
 nav: false
-nav_order: 5
 ---
 
 *selected presentations*

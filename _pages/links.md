@@ -2,6 +2,7 @@
 layout: page
 permalink: /links/
 title: links
+description: リンク
 nav: true
 nav_order: 7
 ---
