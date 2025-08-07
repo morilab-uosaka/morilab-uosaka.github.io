@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: HPを開設しました！
+date: 2025-08-07 22:42:00+0900
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+テスト２
+
