@@ -14,7 +14,7 @@ footer_text: >
   大阪大学環境安全研究管理センター 大学院工学研究科応用化学専攻 森研究室
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: jp # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🧪 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://morilab-uosaka.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -52,7 +52,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1300px
 
 # TODO: add layout settings (single page vs. multi-page)
 
