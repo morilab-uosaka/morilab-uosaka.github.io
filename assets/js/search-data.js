@@ -70,12 +70,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-hpを開設しました",
-          title: 'HPを開設しました！',
+            },},{id: "news-森研究室が発足しました",
+          title: '森研究室が発足しました！',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-project-1",
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
