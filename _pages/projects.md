@@ -5,7 +5,7 @@ permalink: /research/
 description: 研究内容
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Prof. Dr. Mori, Dr. Tsunoi, Dr. Wang]
 horizontal: false
 ---
 
