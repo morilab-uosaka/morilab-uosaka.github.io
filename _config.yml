@@ -6,12 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Mori Lab
 middle_name: 
 last_name: UOsaka
-contact_note: >
-  〒565-0871　大阪府吹田市山田丘2-4
+contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  大阪大学環境安全研究管理センター 大学院工学研究科応用化学専攻 森研究室
+  Mori Lab @UOsaka
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: jp # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧪 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
