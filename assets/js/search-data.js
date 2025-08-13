@@ -65,12 +65,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/join/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-森研究室が発足しました",
+        },{id: "news-森研究室が発足しました",
           title: '森研究室が発足しました！',
           description: "",
           section: "News",handler: () => {
