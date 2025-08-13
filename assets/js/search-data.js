@@ -75,8 +75,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-hpを開設しました",
+          title: 'HPを開設しました！',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
