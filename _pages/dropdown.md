@@ -1,7 +1,7 @@
 ---
 layout: page
 title: achievements
-nav: true
+nav: false
 nav_order: 5
 dropdown: true
 children:

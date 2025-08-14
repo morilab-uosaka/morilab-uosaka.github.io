@@ -48,6 +48,6 @@ email: tmori@epc.osaka-u.ac.jp # your email address
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: /assets/img/uosaka.png # can be png, svg, jpg
+  logo: https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/uoska.png # can be png, svg, jpg
   title: UOsaka
   url: https://www.osaka-u.ac.jp/ja
