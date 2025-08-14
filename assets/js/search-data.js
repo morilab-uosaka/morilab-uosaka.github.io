@@ -30,21 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/member/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/publications/";
-              },
-            },{id: "dropdown-presentations",
-              title: "presentations",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/presentations/";
-              },
-            },{id: "nav-gallery",
+        },{id: "nav-publications",
+          title: "publications",
+          description: "公表論文",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-gallery",
           title: "gallery",
           description: "ギャラリー",
           section: "Navigation",
