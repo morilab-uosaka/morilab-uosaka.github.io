@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 <hr />
-<h2 class="category">staff</h2>
+<a >staff</a>
 森　直
 
 角井　伸次
