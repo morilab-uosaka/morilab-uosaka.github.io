@@ -11,7 +11,7 @@ nav_order: 7
 
 
 ### jouranls 📚
-![/assets/img/journal/acr.png](https://pubs.acs.org/journal/achre4)
+![assets/img/journal/acr.png](https://pubs.acs.org/journal/achre4)
 
 ### tools 🌏
 
