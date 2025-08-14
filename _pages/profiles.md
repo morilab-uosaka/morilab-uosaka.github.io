@@ -8,12 +8,11 @@ nav_order: 3
 ---
 
 <hr />
-<a >staff</a>
 森　直
 
 角井　伸次
 
-王　哲
+[王　哲](https://wongzit.github.io)
 
 <hr />
 
