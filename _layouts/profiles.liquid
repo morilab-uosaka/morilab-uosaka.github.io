@@ -3,9 +3,10 @@ layout: page
 ---
 <div class="post">
   <article>
+  <hr />
+  <h2>staff</h2>
     {% if page.profiles %}
       {% for profile in page.profiles %}
-        <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
@@ -35,29 +36,19 @@ layout: page
 
     <hr />
 
-    <h2>students</h2>
+    <h2>student</h2>
 
-    松本　紗耶未
-
-    QIN Zihao
-
-    久次米　智裕
-
-    渡部　壮一郎
-
-    NYAMDASH Bolortuya
-
-    松浦　実乃里
-
-    中根　晴太
-
-    北浦　太一
-
-    小阪　龍世
-
-    茨木　諒介
-
-    二宮　幸大
+    <p> D1 <b>松本　紗耶未</b> (Sayami MATSUMOTO)</p>
+    <p> D1 <b>秦　子皓</b> (Zihao QIN)</p>
+    <p> M2 <b>久次米　智裕</b> (Tomohiro KUJIME)</p>
+    <p> M2 <b>渡部　壮一郎</b> (Sohichiro WATANABE)</p>
+    <p> M2 <b>NYAMDASH Bolortuya</b></p>
+    <p> M2 <b>松浦　実乃里</b> (Minori MATSUURA)</p>
+    <p> M1 <b>中根　晴太</b> (Hareta NAKANE)</p>
+    <p> M1 <b>北浦　太一</b> (KITAURA)</p>
+    <p> M1 <b>小阪　龍世</b> (Ryusei KOSAKA)</p>
+    <p> B4 <b>茨木　諒介</b> (Ryosuke IBARAGI)</p>
+    <p> B4 <b>二宮　幸大</b> (NINOMIYA)</p>
 
   </article>
 </div>
