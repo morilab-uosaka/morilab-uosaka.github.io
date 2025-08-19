@@ -1,10 +1,24 @@
 ---
-layout: page
+layout: profiles
 permalink: /member/
 title: member
 description: 研究室構成員
 nav: true
 nav_order: 3
+
+profiles:
+  - align: right
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: prof_wang.png
+    content: about_wang.md
+    image_circular: true
 ---
 
 <hr />
@@ -14,26 +28,4 @@ nav_order: 3
 
 [王　哲](https://wongzit.github.io)
 
-<hr />
 
-松本　紗耶未
-
-QIN Zihao
-
-久次米　智裕
-
-渡部　壮一郎
-
-NYAMDASH Bolortuya
-
-松浦　実乃里
-
-中根　晴太
-
-北浦　太一
-
-小阪　龍世
-
-茨木　諒介
-
-二宮　幸大
