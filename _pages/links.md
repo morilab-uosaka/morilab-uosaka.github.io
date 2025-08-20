@@ -9,6 +9,27 @@ nav_order: 7
 
 ### inside 🔐
 
+<p align="left">
+<a href="https://www-aif.eng.osaka-u.ac.jp"> <img alt="aif" class="icon" src="/assets/img/linkicon/aif.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://www.opf.osaka-u.ac.jp/home"> <img alt="ressys" class="icon" src="/assets/img/linkicon/ressys.png" style="height:66px; background-color:transparent;"></a>
+
+<a href="https://www.osaka-u.ac.jp/ja"> <img alt="uo" class="icon" src="/assets/img/linkicon/uo.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://www.eng.osaka-u.ac.jp/ja/"> <img alt="uoeng" class="icon" src="/assets/img/linkicon/uoeng.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://www.applchem.eng.osaka-u.ac.jp/"> <img alt="uoappchem" class="icon" src="/assets/img/linkicon/uoappchem.png" style="height:66px; background-color:transparent;"></a>
+<a href="http://www.epc.osaka-u.ac.jp/"> <img alt="uoepc" class="icon" src="/assets/img/linkicon/uoepc.png" style="height:66px; background-color:transparent;"></a>
+</p>
+
+
+### research 🧪
+
+<p align="left">
+<a href="https://scifinder-n-cas-org.osaka-u.idm.oclc.org/"> <img alt="scifinder" class="icon" src="/assets/img/linkicon/scifinder.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://labchem-wako.fujifilm.com/jp/index.html"> <img alt="wako" class="icon" src="/assets/img/linkicon/wako.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://www.tcichemicals.com/JP/ja"> <img alt="tci" class="icon" src="/assets/img/linkicon/tci.png" style="height:66px; background-color:transparent;"></a>
+<a href="hhttps://www.kanto.co.jp"> <img alt="kt" class="icon" src="/assets/img/linkicon/kanto.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://www.sigmaaldrich.com/JP/ja"> <img alt="sigma" class="icon" src="/assets/img/linkicon/sigma.png" style="height:66px; background-color:transparent;"></a>
+</p>
+
 
 ### jouranls 📚
 
@@ -44,22 +65,6 @@ nav_order: 7
 <a href="https://pubs.acs.org/journal/chreay"> <img alt="cr" class="icon" src="/assets/img/journal/cr.png" style="height:66px; background-color:transparent;"></a>
 <a href="https://pubs.rsc.org/en/journals/journalissues/cs#!recentarticles&adv"> <img alt="csr" class="icon" src="/assets/img/journal/csr.png" style="height:66px; background-color:transparent;"></a>
 </p>
-
-### tools 🌏
-
-- [Online Molecular Viewer](https://wongzit.github.io/program/online/molviewer.html) *based on XYZ coordinates.*
-- [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): *Web based tool to extract data from plots, images, and maps.*
-- [Pressure-Temperature Nomograph Interative Tool](https://www.sigmaaldrich.com/JP/ja/support/calculators-and-apps/pressure-temperature-nomograph-interactive-tool): *Boiling point vs pressure calculator.*
-- [CCCBDB](https://cccbdb.nist.gov/vibscalejustx.asp): *Precomputed vibrational scaling factors.*
-- [CHESHIRE](http://cheshirenmr.info): *Computed NMR scaling factors.*
-- [BSE](http://basissetexchange.org): *Basis set exchange.*
-
-### universities 🏫
-
-- [大阪大学](https://www.osaka-u.ac.jp/ja)
-- [大学院工学研究科](https://www.eng.osaka-u.ac.jp/ja/)
-- [応用化学専攻](https://www.applchem.eng.osaka-u.ac.jp)
-- [環境安全研究管理センター](http://www.epc.osaka-u.ac.jp)
 
 ### societies 🏟️
 
