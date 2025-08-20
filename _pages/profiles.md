@@ -7,25 +7,17 @@ nav: true
 nav_order: 3
 
 profiles:
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  - align: left
+    image: prof_mori.png
+    content: about_mori.md
+    image_circular: false
+  - align: left
+    image: prof_tsunoi.png
+    content: about_tsunoi.md
+    image_circular: false
   - align: left
     image: prof_wang.png
     content: about_wang.md
-    image_circular: true
+    image_circular: false
 ---
-
-<hr />
-森　直
-
-角井　伸次
-
-[王　哲](https://wongzit.github.io)
-
 
