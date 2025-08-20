@@ -39,6 +39,15 @@ layout: page
                   {% if profile.researchgate %}
                     <a href="{{ profile.researchgate }}" target="_blank" title="ResearchGate"><i class="fab fa-researchgate fa-lg"></i></a>
                   {% endif %}
+                  {% if profile.url %}
+                    <a href="{{ profile.url }}" target="_blank" title="Work"><i class="fa-solid fa-briefcase"></i></a>
+                  {% endif %}
+                  {% if profile.twitter %}
+                    <a href="https://x.com/{{ profile.twitter }}" target="_blank" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+                  {% endif %}
+                  {% if profile.github %}
+                    <a href="https://github.com/{{ profile.github }}" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>
+                  {% endif %}
                 </div>
               </div>
             </div>

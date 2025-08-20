@@ -22,11 +22,14 @@ profiles:
   - image: prof_wang.png
     image_circular: false
     more_info: >
-      <p><strong>王 哲 | Zhe WANG</strong></p>
+      <p><a href="https://rd.iai.osaka-u.ac.jp/ja/137af188b80be1cd.html?k=%E7%8E%8B%E5%93%B2"><b>王 哲 | Zhe WANG</b></a></p>
       <p>助教 | Assistant Professor</p>
     email: wangzhe@epc.osaka-u.ac.jp
     orcid: 0000-0002-9996-586X
     googlescholar: https://scholar.google.com.br/citations?user=gzUh6CMAAAAJ
     researchgate: https://www.researchgate.net/profile/Zhe-Wang-84/
+    url: https://wongzit.github.io
+    twitter: oooooootetsu
+    github: wongzit
 ---
 
