@@ -59,3 +59,7 @@ appchem:
   logo: https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/appchem.png
   title: appchem
   url: https://www.applchem.eng.osaka-u.ac.jp
+epc:
+  logo: https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/epc.png
+  title: epc
+  url: http://www.epc.osaka-u.ac.jp
