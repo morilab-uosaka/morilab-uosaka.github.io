@@ -10,9 +10,10 @@ profiles:
   - image: prof_wang.png
     image_circular: false
     more_info: >
-      <p><strong>Zhe WANG</strong></p>
-      <p>Assistant Professor</p>
+      <p><strong>王 哲 | Zhe WANG</strong></p>
+      <p>助教</p>
     orcid: 0000-0002-9996-586X
     googlescholar: https://scholar.google.com.br/citations?user=gzUh6CMAAAAJ
+    researchgate: Zhe-Wang-84
 ---
 

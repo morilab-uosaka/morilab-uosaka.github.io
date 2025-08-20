@@ -15,7 +15,7 @@ layout: page
                 {% else %}
                   {% assign profile_image_class = 'card-img-top img-fluid z-depth-1 rounded mx-auto mt-3' %}
                 {% endif %}
-                {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.25}}px, (min-width: 992px) 25vw, (min-width: 768px) 50vw, 95vw"{% endcapture %}
+                {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.05}}px, (min-width: 992px) 25vw, (min-width: 768px) 20vw, 20vw"{% endcapture %}
                 {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image style="max-width:80%; height:auto;" %}
               {% endif %}
               
