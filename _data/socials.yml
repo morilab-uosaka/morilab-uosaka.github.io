@@ -48,6 +48,14 @@
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 uosaka: # can be any name here other than the ones already defined above
-  logo: https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/uoska.png # can be png, svg, jpg
+  logo: https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/uosaka.png
   title: UOsaka
   url: https://www.osaka-u.ac.jp/ja
+eng:
+  logo: https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/eng.png
+  title: eng
+  url: https://www.eng.osaka-u.ac.jp/ja/
+appchem:
+  logo: https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/appchem.png
+  title: appchem
+  url: https://www.applchem.eng.osaka-u.ac.jp
