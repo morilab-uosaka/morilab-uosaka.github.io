@@ -13,10 +13,15 @@ nav_order: 7
 ### jouranls 📚
 
 <p align="center">
-<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:86px; background-color:transparent;"></a>
-<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:86px; background-color:transparent;"></a>
-<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:86px; background-color:transparent;"></a>
-<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:86px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://pubs.acs.org/journal/achre4"> <img alt="acr" class="icon" src="/assets/img/journal/acr.png" style="height:66px; background-color:transparent;"></a>
 </p>
 
 ### tools 🌏
