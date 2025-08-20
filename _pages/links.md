@@ -11,9 +11,11 @@ nav_order: 7
 
 
 ### jouranls 📚
-![https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/journal/acr.png](https://pubs.acs.org/journal/achre4)
-![https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/journal/acr.png](https://pubs.acs.org/journal/achre4)
-![https://raw.githubusercontent.com/morilab-uosaka/morilab-uosaka.github.io/refs/heads/main/assets/img/journal/acr.png](https://pubs.acs.org/journal/achre4)
+
+[![](/assets/img/journal/acr.png)](https://pubs.acs.org/journal/achre4)
+[![](/assets/img/journal/acr.png)](https://pubs.acs.org/journal/achre4)
+[![](/assets/img/journal/acr.png)](https://pubs.acs.org/journal/achre4)
+[![](/assets/img/journal/acr.png)](https://pubs.acs.org/journal/achre4)
 
 ### tools 🌏
 
