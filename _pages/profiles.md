@@ -7,17 +7,12 @@ nav: true
 nav_order: 3
 
 profiles:
-  - align: left
-    image: prof_mori.png
-    content: about_mori.md
+  - image: prof_wang.png
     image_circular: false
-  - align: left
-    image: prof_tsunoi.png
-    content: about_tsunoi.md
-    image_circular: false
-  - align: left
-    image: prof_wang.png
-    content: about_wang.md
-    image_circular: false
+    more_info: >
+      <p><strong>Zhe WANG</strong></p>
+      <p>Assistant Professor</p>
+    orcid: 0000-0002-9996-586X
+    googlescholar: https://scholar.google.com.br/citations?user=gzUh6CMAAAAJ
 ---
 
