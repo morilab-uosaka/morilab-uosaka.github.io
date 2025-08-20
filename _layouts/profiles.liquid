@@ -27,8 +27,8 @@ layout: page
                   {% if profile.email %}
                     <a href="mailto:{{ profile.email | encode_email }}" target="_blank" title="email"><i class="fa-solid fa-envelope"></i></a>
                   {% endif %}
-                  {% if profile.linkedin %}
-                    <a href="{{ profile.linkedin }}" target="_blank" title="LinkedIn"><i class="fab fa-linkedin fa-lg"></i></a>
+                  {% if profile.url %}
+                    <a href="{{ profile.url }}" target="_blank" title="Work"><i class="fa-solid fa-square-up-right"></i></a>
                   {% endif %}
                   {% if profile.orcid %}
                     <a href="https://orcid.org/{{ profile.orcid }}" target="_blank" title="ORCID"><i class="ai ai-orcid fa-lg"></i></a>
@@ -39,8 +39,8 @@ layout: page
                   {% if profile.researchgate %}
                     <a href="{{ profile.researchgate }}" target="_blank" title="ResearchGate"><i class="fab fa-researchgate fa-lg"></i></a>
                   {% endif %}
-                  {% if profile.url %}
-                    <a href="{{ profile.url }}" target="_blank" title="Work"><i class="fa-solid fa-briefcase"></i></a>
+                  {% if profile.bluesky %}
+                    <a href="{{ profile.bluesky }}" target="_blank" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
                   {% endif %}
                   {% if profile.twitter %}
                     <a href="https://x.com/{{ profile.twitter }}" target="_blank" title="X"><i class="fa-brands fa-x-twitter"></i></a>
