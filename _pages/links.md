@@ -70,9 +70,9 @@ nav_order: 7
 ### societies 🏟️
 
 <p align="left">
-<a href="https://www.chemistry.or.jp"> <img alt="csj" class="icon" src="/assets/img/linkicon/csj.png" style="height:66px; background-color:transparent;"></a>
-<a href="https://photochemistry.jp/index.html"> <img alt="jpa" class="icon" src="/assets/img/linkicon/jpa.png" style="height:66px; background-color:transparent;"></a>
-<a href="http://jpoc.ac"> <img alt="jpoc" class="icon" src="/assets/img/linkicon/jpoc.png" style="height:66px; background-color:transparent;"></a>
-<a href="https://www.jsac.jp"> <img alt="jsac" class="icon" src="/assets/img/linkicon/jsac.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://www.chemistry.or.jp"> <img alt="csj" class="icon" src="/assets/img/linkicon/csj.png" style="height:86px; background-color:transparent;"></a>
+<a href="https://photochemistry.jp/index.html"> <img alt="jpa" class="icon" src="/assets/img/linkicon/jpa.png" style="height:86px; background-color:transparent;"></a>
+<a href="http://jpoc.ac"> <img alt="jpoc" class="icon" src="/assets/img/linkicon/jpoc.png" style="height:86px; background-color:transparent;"></a>
+<a href="https://www.jsac.jp"> <img alt="jsac" class="icon" src="/assets/img/linkicon/jsac.png" style="height:86px; background-color:transparent;"></a>
 </p>
 
