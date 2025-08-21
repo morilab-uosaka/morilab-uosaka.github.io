@@ -11,9 +11,11 @@ nav_order: 8
 
 Our laboratory conducts research at the field of organic chemistry and photochemistry, aiming to discover new molecular functions and reactions. We warmly welcome students from universities worldwide who approach research with sincerity and a willingness to learn through hands-on experimentation.
 
-研究室への進学に関心のある方や、配属を検討している応用化学科の学生を対象に、研究室見学や進学相談を通年で受け付けています（対面／オンライン**いずれも可**）。希望される方は、こちらの[フォーム](https://google.form)からご連絡ください。
+研究室への進学に関心のある方や、配属を検討している応用化学科の学生を対象に、研究室見学や進学相談を通年で受け付けています（対面／オンライン**いずれも可**）。希望される方は、こちらの[フォーム](https://forms.gle/rurkTd1K25BN3MRU9)からご連絡ください。
 
-We accept **lab visits and study consultations throughout the year** (in-person or online) for those interested in joining our lab. If interested, please contact us through this [form](https://google.form).
+We accept **lab visits and study consultations throughout the year** (in-person or online) for those interested in joining our lab. If interested, please contact us through this [form](https://forms.gle/TgPgeH1q1dJpAzW68).
+
+<hr />
 
 ## 学部生として参加する
 
@@ -23,6 +25,8 @@ We accept **lab visits and study consultations throughout the year** (in-person 
 
 We accept fourth-year undergraduate students assigned from the [Applied Chemistry Program](https://www.applchem.eng.osaka-u.ac.jp) in the Department of Applied Natural Science, School of Engineering, Osaka University. Students who wish to be assigned to our lab are strongly encouraged to visit the lab and have an interview with the staff in advance.
 
+<hr />
+
 ## 博士前期課程学生として参加する
 
 ## Joining as a Master’s Student
@@ -30,6 +34,8 @@ We accept fourth-year undergraduate students assigned from the [Applied Chemistr
 当研究室では、TA／RA制度、学内外の奨学金、企業との連携や共同研究の機会、英語でのプレゼンテーションや論文執筆の指導などを通じて、研究とキャリア形成を支援します。博士前期（＝修士）課程での受け入れは、大阪大学大学院工学研究科[応用化学専攻](https://www.applchem.eng.osaka-u.ac.jp)の入試に基づいて行います，詳細はこちらの[募集要項](https://www.applchem.eng.osaka-u.ac.jp/admission/)をご参照ください。手続きの流れは、**事前相談 → 出願・受験 → 合否通知 → 受け入れ手続き**となります。少なくとも出願の**半年前**を目安にご連絡ください。
 
 We support our master’s students through **TA/RA positions, internal and external scholarships, opportunities for industry collaboration and joint research, as well as coaching in English presentations and scientific writing**. Admission to the Master’s Program is through the entrance examination of the [Department of Applied Chemistry](https://www.applchem.eng.osaka-u.ac.jp), Graduate School of Engineering, Osaka University. Please see the latest [application guidelines](https://www.applchem.eng.osaka-u.ac.jp/admission/) for details. The general process is: **preliminary consultation → application/exam → admission decision → enrollment procedures**. Please contact us at least **six months prior** to the application deadline.
+
+<hr />
 
 ## 博士後期課程学生として参加する
 
@@ -71,7 +77,9 @@ We also actively support doctoral applicants in applying for fellowship programs
 - Application deadline: early January (annually)  
 - Notification of results: late March
 
-👉 ご質問や見学希望は、こちらの[フォーム](https://google.form)あるいは[スタッフ](https://morilab-uosaka.github.io/member/)までご連絡ください。件名に「研究室見学希望（氏名・学年）」や「大学院進学相談（修士／博士）」と記載いただけるとスムーズに対応できます。
+<hr />
 
-👉 For inquiries or lab visit requests, please contact us via this [form](https://google.form) or reach out to our [staff](https://morilab-uosaka.github.io/member/). Using a subject line such as “Lab visit request (Name, Year)” or “Graduate admission inquiry (MSc/PhD)” will help us respond more smoothly.
+👉 ご質問や見学希望は、こちらの[フォーム](https://forms.gle/rurkTd1K25BN3MRU9)あるいは[スタッフ](https://morilab-uosaka.github.io/member/)までご連絡ください。件名に「研究室見学希望（氏名・学年）」や「大学院進学相談（修士／博士）」と記載いただけるとスムーズに対応できます。
+
+👉 For inquiries or lab visit requests, please contact us via this [form](https://forms.gle/TgPgeH1q1dJpAzW68) or reach out to our [staff](https://morilab-uosaka.github.io/member/). Using a subject line such as “Lab visit request (Name, Year)” or “Graduate admission inquiry (MSc/PhD)” will help us respond more smoothly.
 
