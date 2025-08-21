@@ -69,8 +69,10 @@ nav_order: 7
 
 ### societies 🏟️
 
-- [日本化学会](https://www.chemistry.or.jp)
-- [基礎有機化学会](http://jpoc.ac)
-- [光化学協会](https://photochemistry.jp/index.html)
-- [日本分析化学会](https://www.jsac.jp)
+<p align="left">
+<a href="https://www.chemistry.or.jp"> <img alt="csj" class="icon" src="/assets/img/linkicon/csj.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://photochemistry.jp/index.html"> <img alt="jpa" class="icon" src="/assets/img/linkicon/jpa.png" style="height:66px; background-color:transparent;"></a>
+<a href="http://jpoc.ac"> <img alt="jpoc" class="icon" src="/assets/img/linkicon/jpoc.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://www.jsac.jp"> <img alt="jsac" class="icon" src="/assets/img/linkicon/jsac.png" style="height:66px; background-color:transparent;"></a>
+</p>
 
