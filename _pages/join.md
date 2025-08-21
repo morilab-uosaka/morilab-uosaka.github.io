@@ -17,9 +17,9 @@ We accept **lab visits and study consultations throughout the year** (in-person 
 
 <hr />
 
-## 学部生として参加する
+### 学部生として参加する
 
-## Joining as an Undergraduate Student
+### Joining as an Undergraduate Student
 
 当研究室は、大阪大学工学部応用自然科学科[応用化学科目](https://www.applchem.eng.osaka-u.ac.jp)に所属する学部4年生を配属として受け入れています。研究室への配属を希望する新4年生は、事前に研究室を見学し、スタッフとの面談を行うことを推奨しています。
 
@@ -27,9 +27,9 @@ We accept fourth-year undergraduate students assigned from the [Applied Chemistr
 
 <hr />
 
-## 博士前期課程学生として参加する
+### 博士前期課程学生として参加する
 
-## Joining as a Master’s Student
+### Joining as a Master’s Student
 
 当研究室では、TA／RA制度、学内外の奨学金、企業との連携や共同研究の機会、英語でのプレゼンテーションや論文執筆の指導などを通じて、研究とキャリア形成を支援します。博士前期（＝修士）課程での受け入れは、大阪大学大学院工学研究科[応用化学専攻](https://www.applchem.eng.osaka-u.ac.jp)の入試に基づいて行います，詳細はこちらの[募集要項](https://www.applchem.eng.osaka-u.ac.jp/admission/)をご参照ください。手続きの流れは、**事前相談 → 出願・受験 → 合否通知 → 受け入れ手続き**となります。少なくとも出願の**半年前**を目安にご連絡ください。
 
@@ -37,9 +37,9 @@ We support our master’s students through **TA/RA positions, internal and exter
 
 <hr />
 
-## 博士後期課程学生として参加する
+### 博士後期課程学生として参加する
 
-## Joining as a Doctoral Student
+### Joining as a Doctoral Student
 
 博士後期課程では、独立した研究の推進、筆頭論文の執筆、プロジェクトの企画・運営、後輩の指導、国際的な情報発信が期待されます。当研究室では、学振DC応募支援、RA／TA、授業料免除、外部財団への申請支援などを行っています（いずれも採択は審査によります）。社会人博士や留学生も歓迎しており、日本語・英語のいずれでも研究を進められます。まずはオンライン面談でご相談ください。大阪大学大学院工学研究科[応用化学専攻](https://www.applchem.eng.osaka-u.ac.jp)の入試に基づいて行いますので，詳細はこちらの[募集要項](https://www.applchem.eng.osaka-u.ac.jp/admission/)をご参照ください。
 
