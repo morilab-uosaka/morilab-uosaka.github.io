@@ -28,6 +28,7 @@ nav_order: 7
 <a href="https://www.tcichemicals.com/JP/ja"> <img alt="tci" class="icon" src="/assets/img/linkicon/tci.png" style="height:66px; background-color:transparent;"></a>
 <a href="https://www.kanto.co.jp"> <img alt="kt" class="icon" src="/assets/img/linkicon/kanto.png" style="height:66px; background-color:transparent;"></a>
 <a href="https://www.sigmaaldrich.com/JP/ja"> <img alt="sigma" class="icon" src="/assets/img/linkicon/sigma.png" style="height:66px; background-color:transparent;"></a>
+<a href="https://www.e-nacalai.jp/"> <img alt="nacalai" class="icon" src="/assets/img/linkicon/nacalai.png" style="height:66px; background-color:transparent;"></a>
 </p>
 
 <hr />
