@@ -96,9 +96,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "a project that redirects to another website",
+            },},{id: "projects-量子化学において芳香族性評価手法の改良",
+          title: '量子化学において芳香族性評価手法の改良',
+          description: "既存の芳香族性評価手法が系や設定に依存してブレやすい問題に対し，普遍的に頑健な指標へと再設計する",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{
