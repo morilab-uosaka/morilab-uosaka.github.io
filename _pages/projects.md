@@ -35,3 +35,7 @@ under construction
 
 Aromaticity is a fundamental concept that indicates the stability and reactivity of cyclic molecules. Since it is difficult to observe directly, it has been evaluated using multiple criteria, including structural, energetic, reactivity-based, and magnetic properties. Among these, the nucleus-independent chemical shift (NICS) has become the most widely adopted method due to its simplicity. However, its results are known to vary depending on the choice of evaluation points, coordinate system, and reference plane—meaning that it is not always universally appropriate for all molecular systems. To overcome these inherent limitations, this study aims to develop a methodology that enables consistent and reproducible evaluation of aromaticity across diverse molecules, including planar, nonplanar, tilted, fused, and substituted systems.
 
+<p align="center">
+<a> <img alt="aif" class="icon" src="/assets/img/linkicon/aif.png" style="height:200px; background-color:transparent;"></a>
+</p>
+
