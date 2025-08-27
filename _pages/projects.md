@@ -9,21 +9,21 @@ horizontal: false
 ---
 
 <hr/>
-<h2 class="category"> Prof. Dr. Mori</h2>
+<p align="right"> <b> Prof. Dr. Mori</b> </p>
 
 工事中
 
 <hr/>
-<h2 class="category"> Dr. Tsunoi</h2>
+<p align="right"> <b> Dr. Tsunoi</b> </p>
 
 工事中
 
 <hr/>
-
-<p align="right"> <b> Dr. Wang</b> </p>
 
 <h4> 溶解性と化学安定性を両立した開殻ジラジカロイドの創製と応用展開 </h4>
 <h4> Creation of Open-Shell Diradicaloids with Balanced Solubility and Chemical Stability </h4>
+
+<p align="right"> <b> Dr. Wang</b> </p>
 
 <p align="center">
 <a> <img alt="dr" class="icon" src="/assets/img/project/dr.png" style="height:80px; background-color:transparent;"></a>
@@ -39,10 +39,10 @@ We aim to develop functional diradicaloids that simultaneously achieve good solu
 
 <hr/>
 
-<p align="right"> <b> Dr. Wang</b> </p>
-
 <h4> 芳香族性評価の計算化学的手法の改良 </h4>
 <h4> Advancing Computational Methods for the Evaluation of Aromaticity </h4>
+
+<p align="right"> <b> Dr. Wang</b> </p>
 
 <p align="center">
 <a> <img alt="nics" class="icon" src="/assets/img/project/nics.png" style="height:300px; background-color:transparent;"></a>
