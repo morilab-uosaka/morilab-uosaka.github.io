@@ -21,7 +21,7 @@ profiles:
       <p>准教授 | Associate Professor</p>
     email: tsunoi@epc.osaka-u.ac.jp
     orcid: 0000-0003-1949-6221
-  - image: prof_wang.png
+  - image: prof_wang.jpg
     image_circular: false
     more_info: >
       <p><a href="https://rd.iai.osaka-u.ac.jp/ja/137af188b80be1cd.html"><b>王 哲 | Zhe WANG</b></a></p>
