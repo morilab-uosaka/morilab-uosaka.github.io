@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025年光化学討論会に6名の学生が参加します
+title: ICCS-2025に3名の学生が参加します
 date: 2025-08-30 00:11:33+0900
 inline: false
 related_posts: false
