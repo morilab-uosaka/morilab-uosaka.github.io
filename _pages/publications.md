@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+<strong>工事中🚧最新版ではありません</strong>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
