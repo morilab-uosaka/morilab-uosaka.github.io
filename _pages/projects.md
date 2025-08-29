@@ -11,12 +11,12 @@ horizontal: false
 <hr/>
 <p align="right"> <b> Prof. Dr. Mori</b> </p>
 
-工事中
+<strong>工事中🚧</strong>
 
 <hr/>
 <p align="right"> <b> Dr. Tsunoi</b> </p>
 
-工事中
+<strong>工事中🚧</strong>
 
 <hr/>
 

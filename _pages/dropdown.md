@@ -1,6 +1,6 @@
 ---
 layout: page
-title: achievements
+title: publications
 nav: true
 nav_order: 5
 dropdown: true
@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: books & chapters
     permalink: /books/
+  - title: divider
+  - title: presentations
+    permalink: /presentations/
 ---
