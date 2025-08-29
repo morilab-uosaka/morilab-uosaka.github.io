@@ -7,12 +7,13 @@ nav: true
 nav_order: 3
 
 profiles:
-  - image: prof_mori.png
+  - image: prof_mori.jpg
     image_circular: false
     more_info: >
       <p><a href="https://rd.iai.osaka-u.ac.jp/ja/3307973587e1d661.html"><b>森 直 | Tadashi MORI</b></a></p>
       <p>教授 | Professor</p>
     email: tmori@epc.osaka-u.ac.jp
+    url: https://wongzit.github.io
     orcid: 0000-0003-3918-0873
   - image: prof_tsunoi.png
     image_circular: false
