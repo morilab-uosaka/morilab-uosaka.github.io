@@ -1,12 +1,12 @@
 ---
-layout: page
-permalink: /presentations/
-title: presentations
-description: 学会発表
-nav: false
+layout: post
+title: 2025年光化学討論会に6名の学生が参加します
+date: 2025-08-30 00:01:53+0900
+inline: false
+related_posts: false
 ---
 
-## 2025
+学生6名が，9月4日（木）〜6日（土）の3日間，立教大学池袋キャンパスで開催される[2025年光化学討論会](https://photochemistry.jp/2025/index.html)に参加します．ぜひ会場にお立ち寄りのうえ，ご議論いただけますと幸いです．
 
 - [1P67] ジ-N-カルバゾイルアルカンのエキシマー形成とキロプティカル特性
 - [1P70] ビスアリール置換した[5]及び[6]ヘリセンの光学及びキロプティカル特性
@@ -14,7 +14,4 @@ nav: false
 - [2P62] 縮環キラルピレン誘導体のエキシマー形成とその光学およびキロプティカル特性
 - [3P58] ノルボルネン縮合ピレンのエキシプレックス形成とそのキラル発光特性
 - [3P66] ビスアリールカルバゾール含有ヘリセンのキロプティカル特性
-- Chiroptical Properties of Carbazole-containing Bisaryl Helicenes
-- Excimer Formation and Chiroptical Properties of Di-(N-carbazolyl)alkanes
-- Excimer formation of fused chiral pyrene derivatives and their optical and chiroptical properties
 
