@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /articles/
+title: articles
 description: 公表論文
-nav: true
+nav: false
 nav_order: 5
 ---
 

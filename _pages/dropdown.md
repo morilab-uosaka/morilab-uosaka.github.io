@@ -5,9 +5,9 @@ nav: false
 nav_order: 5
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: articles
+    permalink: /articles/
   - title: divider
-  - title: presentations
-    permalink: /presentations/
+  - title: books & chapters
+    permalink: /books/
 ---
