@@ -20,7 +20,7 @@ latest_posts:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/4.jpg" title="group photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/home.png" title="group photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/epc_2.png" title="epc" class="img-fluid rounded z-depth-1" %}
