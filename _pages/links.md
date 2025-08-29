@@ -16,6 +16,7 @@ nav_order: 7
 <a href="https://www.opf.osaka-u.ac.jp/home"> <img alt="ressys" class="icon" src="/assets/img/linkicon/ressys.png" style="height:86px; background-color:transparent;"></a>
 <a href="https://occs.epc.osaka-u.ac.jp/"> <img alt="occs" class="icon" src="/assets/img/linkicon/occs.png" style="height:86px; background-color:transparent;"></a>
 <a href="https://ogcs.epc.osaka-u.ac.jp/"> <img alt="ogcs" class="icon" src="/assets/img/linkicon/ogcs.png" style="height:86px; background-color:transparent;"></a>
+<a href="https://my.osaka-u.ac.jp"> <img alt="myhandai" class="icon" src="/assets/img/linkicon/myhandai.png" style="height:86px; background-color:transparent;"></a>
 </p>
 
 <hr />
