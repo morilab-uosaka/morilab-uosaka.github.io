@@ -85,8 +85,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-2025年光化学討論会に6名の学生が参加します",
-          title: '2025年光化学討論会に6名の学生が参加します',
+            },},{id: "news-iccs-2025に3名の学生が参加します",
+          title: 'ICCS-2025に3名の学生が参加します',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
