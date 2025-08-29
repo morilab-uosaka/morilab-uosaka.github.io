@@ -27,7 +27,7 @@ nav: false
 
 **2006 ~ 2007** | Alexander von Humboldt Research Fellow. University of Münster
 
-**1998 ~ 2025** | Associate Professor, Osaka University
+**2007 ~ 2025** | Associate Professor, Osaka University
 
 **2018 ~ 2019** | Fostering Joint International Research, Technical University of Munich
 
