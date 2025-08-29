@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/member/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "公表論文",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "nav-gallery",
           title: "gallery",
           description: "ギャラリー",
