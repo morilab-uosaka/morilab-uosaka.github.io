@@ -80,7 +80,17 @@ ninja.data = [{
             },},{id: "news-hpを開設しました",
           title: 'HPを開設しました！',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-2025年光化学討論会に6名の学生が参加します",
+          title: '2025年光化学討論会に6名の学生が参加します',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-2025年光化学討論会に6名の学生が参加します",
+          title: '2025年光化学討論会に6名の学生が参加します',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
