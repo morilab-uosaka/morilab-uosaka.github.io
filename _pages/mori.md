@@ -6,8 +6,12 @@ description: 森　直　教授
 nav: false
 ---
 
+<hr/>
+
 ## Description
 **Excited state chirality** plays a crucial role in photoreactions and photophysics. It encompasses the control of asymmetric photoreactions through both conventional and emerging strategies, including supramolecular interactions. Additionally, it involves elucidating the structure-property relationships of circular dichroism and circularly polarized luminescence from a materials perspective. Achieving this requires highly accurate excited state computations regarding conformation, energy, dynamics, and property calculations, along with human (and sometimes unconventional) intuition.
+
+<hr/>
 
 ## Professional Experience
 
@@ -29,6 +33,7 @@ nav: false
 
 **2025 ~ Present** | Professor, The University of Osaka
 
+<hr/>
 
 ## Recent Publications
 
