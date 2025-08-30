@@ -10,6 +10,8 @@ nav: false
 
 ## 2025
 
+<br>
+
 #### 国内学会
 
 #### Domestic Conferences
@@ -27,9 +29,9 @@ nav: false
 6. **ビスアリールカルバゾール含有ヘリセンのキロプティカル特性**, <u>松本紗耶未</u>, 森直, 2025年光化学討論会, 2025年9月6日, 立教大学池袋キャンパス, 東京
 
 
-## 国際学会
+#### 国際学会
 
-## International Conferences
+#### International Conferences
 
 1. **Chiroptical Properties of Carbazole-containing Bisaryl Helicenes**, <u>Sayami MATSUMOTO</u>, Zhe WANG, Tadashi MORI, International Conference on Chiroptical Science (ICCS-2025), September 19, 2025, Kyoto, Japan
 
