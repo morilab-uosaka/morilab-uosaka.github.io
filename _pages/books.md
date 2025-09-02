@@ -1,17 +1,15 @@
 ---
-layout: page
+layout: books
 permalink: /books/
 title: books & chapters
 description: 著書
 nav: false
 
 profiles:
-  - image: /book/mori2024chiral.png
+  - align: left
+    image: mori2024chiral.png
+    content: about_mori2024chiral.md
     image_circular: false
-    more_info: >
-      <p><a href="hhttps://www.wiley.com/en-us/Chiral+Luminescence%3A+From+Molecules+to+Materials+and+Devices%2C+2+Volumes-p-9783527841097"><b>Recent Advancement of Circularly Polarized Luminescence of Helicenes</b></a></p>
-      <p>In <i>Chiral Luminescence: From Molecules to Materials and Devices</i></p>
-      <p>Kazuo Akagi <i>Ed.</i>; WILEY-VCH GmbH, 2024; pp 627-660</p>
 ---
 
 

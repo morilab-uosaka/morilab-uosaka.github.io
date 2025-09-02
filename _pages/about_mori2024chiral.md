@@ -1,0 +1,1 @@
+Mori, T. Recent Advancement of Circularly Polarized Luminescence of Helicenes. In Chiral Luminescence: From Molecules to Materials and Devices, Akagi, K. Ed.; WILEY-VCH GmbH, 2024; pp 627-660.
