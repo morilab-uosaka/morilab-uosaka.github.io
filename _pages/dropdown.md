@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: presentations
     permalink: /presentations/
+  - title: divider
+  - title: patents
+    permalink: /patents/
 ---
