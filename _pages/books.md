@@ -7,7 +7,7 @@ nav: false
 
 profiles:
   - align: left
-    image: mori2024chiral.png
+    image: /book/mori2024chiral.png
     content: about_mori2024chiral.md
     image_circular: false
 ---
