@@ -14,6 +14,10 @@ profiles:
     image: /book/mori2022chiral.png
     content: about_mori2022chiral.md
     image_circular: false
+  - align: left
+    image: /book/abbate2022chiroptical.png
+    content: about_abbate2022chiroptical.md
+    image_circular: false
 ---
 
 
