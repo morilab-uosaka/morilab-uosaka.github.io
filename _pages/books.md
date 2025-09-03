@@ -46,5 +46,25 @@ profiles:
     image: /book/mori2012photochemistry.png
     content: about_mori2012photochemistry.md
     image_circular: false
+  - align: left
+    image: /book/mori2011recent.png
+    content: about_mori2011recent.md
+    image_circular: false
+  - align: left
+    image: /book/inoue2007chirality.png
+    content: about_inoue2007chirality.md
+    image_circular: false
+  - align: left
+    image: /book/mori2004photochemical.png
+    content: about_mori2004photochemical.md
+    image_circular: false
+  - align: left
+    image: /book/mori2007synthesis.png
+    content: about_mori2007synthesis.md
+    image_circular: false
+  - align: left
+    image: /book/mori2007synthesis.png
+    content: about_mori2007synthesis02.md
+    image_circular: false
 ---
 

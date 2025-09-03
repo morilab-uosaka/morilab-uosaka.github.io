@@ -1,6 +1,6 @@
 <p><h3> Circularly Polarized Luminescence of Isolated Small Organic Molecules </h3></p>
 
-<p><u>Mori, T.</u>.</p>
+<p><u>Mori, T.</u></p>
 
 <p>Springer, 2020.</p>
 

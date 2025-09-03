@@ -1,6 +1,6 @@
 <p><h3> Synthesis of Olefins via Photoisomerization of Double Bond </h3></p>
 
-<p><u>Mori, T.</u>.</p>
+<p><u>Mori, T.</u></p>
 
 <p>「有機合成実験法ハンドブック 第2版」，有機合成化学協会，編．丸善出版，2015，pp 974-976.</p>
 
