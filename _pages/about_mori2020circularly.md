@@ -1,4 +1,4 @@
-<p><h3> SCircularly Polarized Luminescence of Isolated Small Organic Molecules </h3></p>
+<p><h3> Circularly Polarized Luminescence of Isolated Small Organic Molecules </h3></p>
 
 <p><u>Mori, T.</u>.</p>
 
