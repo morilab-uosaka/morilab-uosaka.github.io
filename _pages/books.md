@@ -22,6 +22,14 @@ profiles:
     image: /book/mori2020synergetic.png
     content: about_mori2020synergetic.md
     image_circular: false
+  - align: left
+    image: /book/mori2020circularly.png
+    content: about_mori2020circularly.md
+    image_circular: false
+  - align: left
+    image: /book/ikeda2020.png
+    content: about_ikeda2020.md
+    image_circular: false
 ---
 
 
