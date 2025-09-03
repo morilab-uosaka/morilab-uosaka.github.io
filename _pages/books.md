@@ -18,6 +18,10 @@ profiles:
     image: /book/abbate2022chiroptical.png
     content: about_abbate2022chiroptical.md
     image_circular: false
+  - align: left
+    image: /book/mori2020synergetic.png
+    content: about_mori2020synergetic.md
+    image_circular: false
 ---
 
 
