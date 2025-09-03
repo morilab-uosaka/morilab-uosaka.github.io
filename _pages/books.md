@@ -10,6 +10,10 @@ profiles:
     image: /book/mori2024chiral.png
     content: about_mori2024chiral.md
     image_circular: false
+  - align: left
+    image: /book/mori2022chiral.png
+    content: about_mori2022chiral.md
+    image_circular: false
 ---
 
 
