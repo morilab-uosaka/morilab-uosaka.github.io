@@ -16,7 +16,13 @@ horizontal: false
 <hr/>
 <p align="right"> <b> Dr. Tsunoi</b> </p>
 
-<strong>工事中🚧</strong>
+　質量分析計は，構造解析・分子量の決定に利用される．また，質量分析計はGCやLCなどの分離装置と組み合わせることによって，高感度な検出器として用いられることも多い．質量分析は構造解析によく使われるが，異性体の質量スペクトルは非常によく似ており，異性体をマススペクトルで識別するのは困難である．GC-MSやLC-MSでも異性体の識別はタンデム質量分析を用いたり，保持時間で識別したりすることが多い．
+
+　通常，GC-MSのイオン化には電子イオン化や化学イオン化が用いられる．化学イオン化質量分析（CI-MS）はメタン，イソブタン，アンモニアなどの試薬ガスを使って分析対象物質をイオン化する．我々は，試薬ガスとしてケイ素化合物を使い，一般に識別が困難な異性体の分析を行っている．ケイ素化合物から生成するケイ素カチオン特有の反応，また付加イオンのタンデム質量分析により薬物異性体の識別を検討している．
+
+Mass spectrometers are used for structural analysis and determination of molecular weight. They are also often used as highly sensitive detectors when combined with separation devices such as GC or LC. Mass spectrometry is commonly used for structural analysis, but the mass spectra of isomers are very similar, making it difficult to discriminate them. Even with GC-MS and LC-MS, isomers are often discriminated using tandem mass spectrometry or retention time.
+
+Typically, electron ionization or chemical ionization are used for ionization in GC-MS. Chemical ionization mass spectrometry (CI-MS) typically uses reagent gases such as methane, isobutane, and ammonia to ionize the analyte. We use silicon compounds as reagent gases to analyze isomers that are generally difficult to discriminate. We are investigating the differentiation of drug isomers using the specific reactions of silicon cations produced from silicon compounds and tandem mass spectrometry of the adduct ions.
 
 <hr/>
 
