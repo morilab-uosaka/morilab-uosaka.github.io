@@ -58,14 +58,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/patents/";
               },
-            },{id: "nav-gallery",
-          title: "gallery",
-          description: "ギャラリー",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/gallery/";
-          },
-        },{id: "nav-links",
+            },{id: "nav-links",
           title: "links",
           description: "リンク",
           section: "Navigation",
