@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 
 profiles:
-  - image: prof_mori.jpg
+  - image: prof_mori.png
     image_circular: false
     more_info: >
       <p><a href="https://rd.iai.osaka-u.ac.jp/ja/3307973587e1d661.html"><b>森 直 | Tadashi MORI</b></a></p>
