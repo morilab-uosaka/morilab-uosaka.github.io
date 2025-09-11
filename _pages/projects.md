@@ -26,10 +26,10 @@ Typically, electron ionization or chemical ionization are used for ionization in
 
 <hr/>
 
+<p align="right"> <b> Dr. Wang</b> </p>
+
 <h4> 溶解性と化学安定性を両立した開殻ジラジカロイドの創製と応用展開 </h4>
 <h4> Creation of Open-Shell Diradicaloids with Balanced Solubility and Chemical Stability </h4>
-
-<p align="right"> <b> Dr. Wang</b> </p>
 
 　分子内に不対電子をもつ化学種は開殻種と呼ばれ，開殻性ゆえに一般に熱的・化学的に不安定で反応性が高く，合成や取り扱いが難しいという課題があります．ジラジカル（ジラジカロイド）はしばしば HOMO–LUMO ギャップが小さく，長波長光の吸収や多段階の酸化還元を示すため，光学・有機電子材料としての高い潜在力から注目を集めています．近年，特定の多環炭化水素において基底状態での一重項開殻ジラジカル性，さらにはポリラジカル性が見いだされ，特異な電子・光学・磁気特性の発現が報告されています．
 
@@ -43,8 +43,6 @@ We aim to develop functional diradicaloids that simultaneously achieve good solu
 
 <h4> 芳香族性評価の計算化学的手法の改良 </h4>
 <h4> Advancing Computational Methods for the Evaluation of Aromaticity </h4>
-
-<p align="right"> <b> Dr. Wang</b> </p>
 
 <p align="center">
 <a> <img alt="nics" class="icon" src="/assets/img/project/nics.png" style="height:300px; background-color:transparent;"></a>
