@@ -29,7 +29,7 @@ This concept plays a crucial role in photoreactions and photophysics. It encompa
 <h4> Excited State Chirality </h4>
 
 <p align="center">
-<a> <img alt="esc" class="icon" src="/assets/img/project/cpl.png" style="height:260px; background-color:transparent;"></a>
+<a> <img alt="esc" class="icon" src="/assets/img/project/cpl.png" style="height:200px; background-color:transparent;"></a>
 </p>
 
 🏗️工事中🚧
@@ -53,7 +53,7 @@ Typically, electron ionization or chemical ionization are used for ionization in
 <h4> Creation of Open-Shell Diradicaloids with Balanced Solubility and Chemical Stability </h4>
 
 <p align="center">
-<a> <img alt="dr" class="icon" src="/assets/img/project/dr.png" style="height:260px; background-color:transparent;"></a>
+<a> <img alt="dr" class="icon" src="/assets/img/project/dr.png" style="height:120px; background-color:transparent;"></a>
 </p>
 
 　分子内に不対電子をもつ化学種は開殻種と呼ばれ，開殻性ゆえに一般に熱的・化学的に不安定で反応性が高く，合成や取り扱いが難しいという課題があります．ジラジカル（ジラジカロイド）はしばしば HOMO–LUMO ギャップが小さく，長波長光の吸収や多段階の酸化還元を示すため，光学・有機電子材料としての高い潜在力から注目を集めています．近年，特定の多環炭化水素において基底状態での一重項開殻ジラジカル性，さらにはポリラジカル性が見いだされ，特異な電子・光学・磁気特性の発現が報告されています．
@@ -66,13 +66,13 @@ We aim to develop functional diradicaloids that simultaneously achieve good solu
 
 <hr/>
 
-<p align="right"> <b> Dr. Tsunoi</b> </p>
+<p align="right"> <b> Dr. Wang</b> </p>
 
 <h4> 芳香族性評価の計算化学的手法の改良 </h4>
 <h4> Advancing Computational Methods for the Evaluation of Aromaticity </h4>
 
 <p align="center">
-<a> <img alt="nics" class="icon" src="/assets/img/project/nics.png" style="height:260px; background-color:transparent;"></a>
+<a> <img alt="nics" class="icon" src="/assets/img/project/nics.png" style="height:300px; background-color:transparent;"></a>
 </p>
 
 　芳香族性は環状分子の安定性・反応性を示唆する基盤概念であり，直接観測が難しいため，構造・エネルギー・反応性・磁気的性質など多面的な指標で評価されてきました．中でも核独立化学シフト（NICS）は手軽さから広く普及していますが，評価点の置き方や座標系・参照面の選択に依存して結果がばらつく，すなわち「全ての系に常に適切とは言い切れない」という弱点が指摘されています．私たちは，この一般的な限界を超えるために「平面・非平面・傾斜・縮環・置換系」など多様な分子で一貫性と再現性の高い芳香族性評価が可能な手法の開発を目指しています．
