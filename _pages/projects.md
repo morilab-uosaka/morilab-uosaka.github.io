@@ -11,7 +11,28 @@ horizontal: false
 <hr/>
 <p align="right"> <b> Prof. Dr. Mori</b> </p>
 
-<strong>工事中🚧</strong>
+<h4> 励起状態キラリティー </h4>
+<h4> Excited State Chirality </h4>
+
+<p align="center">
+<a> <img alt="esc" class="icon" src="/assets/img/project/esc.png" style="height:260px; background-color:transparent;"></a>
+</p>
+
+　励起状態キラリティーは，光反応および光物理において極めて重要な役割を果たします．従来の方法に加え，超分子相互作用を含む新しい戦略を通じて，非対称光反応の制御を可能にします．さらに，円二色性や円偏光発光といった光学的性質を，材料科学の観点から構造―物性相関として解明することも含まれます。これを実現するためには，分子の配座，エネルギー，動的挙動や諸物性に関する精密な励起状態計算が不可欠であり，加えて人間の直観（ときに常識にとらわれない直観）が大きな力を発揮します．
+
+This concept plays a crucial role in photoreactions and photophysics. It encompasses the control of asymmetric photoreactions through both conventional and emerging strategies, including supramolecular interactions. Additionally, it involves elucidating the structure-property relationships of circular dichroism and circularly polarized luminescence from a materials perspective. Achieving this requires highly accurate excited state computations regarding conformation, energy, dynamics, and property calculations, along with human (and sometimes unconventional) intuition.
+
+<hr/>
+<p align="right"> <b> Prof. Dr. Mori</b> </p>
+
+<h4> キラル発光と不斉光反応 </h4>
+<h4> Excited State Chirality </h4>
+
+<p align="center">
+<a> <img alt="esc" class="icon" src="/assets/img/project/cpl.png" style="height:260px; background-color:transparent;"></a>
+</p>
+
+🏗️工事中🚧
 
 <hr/>
 <p align="right"> <b> Dr. Tsunoi</b> </p>
@@ -31,6 +52,10 @@ Typically, electron ionization or chemical ionization are used for ionization in
 <h4> 溶解性と化学安定性を両立した開殻ジラジカロイドの創製と応用展開 </h4>
 <h4> Creation of Open-Shell Diradicaloids with Balanced Solubility and Chemical Stability </h4>
 
+<p align="center">
+<a> <img alt="dr" class="icon" src="/assets/img/project/dr.png" style="height:260px; background-color:transparent;"></a>
+</p>
+
 　分子内に不対電子をもつ化学種は開殻種と呼ばれ，開殻性ゆえに一般に熱的・化学的に不安定で反応性が高く，合成や取り扱いが難しいという課題があります．ジラジカル（ジラジカロイド）はしばしば HOMO–LUMO ギャップが小さく，長波長光の吸収や多段階の酸化還元を示すため，光学・有機電子材料としての高い潜在力から注目を集めています．近年，特定の多環炭化水素において基底状態での一重項開殻ジラジカル性，さらにはポリラジカル性が見いだされ，特異な電子・光学・磁気特性の発現が報告されています．
 
 　私たちは，溶解性と化学安定性を両立させた機能性ジラジカロイドの創製を目指しています．これらの研究を通じて，スピンの局在／非局在が電子特性を本質的に左右することを明らかにし，得られたジラジカロイド／ポリラジカロイドがエレクトロニクス，フォトニクス，スピントロニクス，磁性材料，量子情報処理などへの応用が期待されています．
@@ -41,11 +66,13 @@ We aim to develop functional diradicaloids that simultaneously achieve good solu
 
 <hr/>
 
+<p align="right"> <b> Dr. Tsunoi</b> </p>
+
 <h4> 芳香族性評価の計算化学的手法の改良 </h4>
 <h4> Advancing Computational Methods for the Evaluation of Aromaticity </h4>
 
 <p align="center">
-<a> <img alt="nics" class="icon" src="/assets/img/project/nics.png" style="height:300px; background-color:transparent;"></a>
+<a> <img alt="nics" class="icon" src="/assets/img/project/nics.png" style="height:260px; background-color:transparent;"></a>
 </p>
 
 　芳香族性は環状分子の安定性・反応性を示唆する基盤概念であり，直接観測が難しいため，構造・エネルギー・反応性・磁気的性質など多面的な指標で評価されてきました．中でも核独立化学シフト（NICS）は手軽さから広く普及していますが，評価点の置き方や座標系・参照面の選択に依存して結果がばらつく，すなわち「全ての系に常に適切とは言い切れない」という弱点が指摘されています．私たちは，この一般的な限界を超えるために「平面・非平面・傾斜・縮環・置換系」など多様な分子で一貫性と再現性の高い芳香族性評価が可能な手法の開発を目指しています．
