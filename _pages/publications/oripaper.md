@@ -7,7 +7,7 @@ nav: false
 
 <hr/>
 
-[All](https://morilab-uosaka.github.io/articles/) / **original papers** / [accounts & reviews](https://morilab-uosaka.github.io/articles/reviews/) / [cover pictures](https://morilab-uosaka.github.io/articles/cover/)
+[all](https://morilab-uosaka.github.io/articles/) / **original papers** / [accounts & reviews](https://morilab-uosaka.github.io/articles/reviews/) / [cover pictures](https://morilab-uosaka.github.io/articles/cover/)
 
 <hr/>
 
