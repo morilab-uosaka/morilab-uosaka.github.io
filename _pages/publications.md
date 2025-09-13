@@ -7,7 +7,9 @@ nav: false
 nav_order: 5
 ---
 
-[2025](https://https://morilab-uosaka.github.io/articles/2025/)
+[2025](https://morilab-uosaka.github.io/articles/2025/)
+
+[2024](https://morilab-uosaka.github.io/articles/2024/)
 
 <!-- _pages/publications.md -->
 
