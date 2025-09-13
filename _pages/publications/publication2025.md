@@ -1,13 +1,10 @@
 ---
 layout: page
-permalink: /articles/
+permalink: /articles/2025/
 title: articles
-description: 公表論文
+description: 2025
 nav: false
-nav_order: 5
 ---
-
-[2025](https://https://morilab-uosaka.github.io/articles/2025/)
 
 <!-- _pages/publications.md -->
 
@@ -17,6 +14,6 @@ nav_order: 5
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --group_by none --query @*[year=2025]* %}
 
 </div>
