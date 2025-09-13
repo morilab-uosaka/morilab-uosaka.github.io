@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /articles/2024/
-title: articles in 2024
+permalink: /articles/2001/
+title: articles in 2001
 nav: false
 ---
 
@@ -19,7 +19,7 @@ nav: false
 
 <div class="publications">
 
-{% bibliography --group_by none --query @*[year=2024]* %}
+{% bibliography --group_by none --query @*[year=2001]* %}
 
 </div>
 
