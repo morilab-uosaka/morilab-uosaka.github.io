@@ -90,6 +90,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-中根-m2-がポスター発表賞を受賞しました",
+          title: '中根（M2）がポスター発表賞を受賞しました！',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
