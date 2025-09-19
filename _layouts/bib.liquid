@@ -185,6 +185,13 @@
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
+      {% if entry.tab %}
+        {% if entry.tab contains 'paper' %}
+          <a class="btn btn-sm z-depth-0" role="button">Article</a>
+        {% else %}
+          <a class="btn btn-sm z-depth-0" role="button">Review</a>
+        {% endif %}
+      {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
@@ -209,13 +216,6 @@
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% else %}
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.tab %}
-        {% if entry.tab contains 'paper' %}
-          <a class="btn btn-sm z-depth-0" role="button">Article</a>
-        {% else %}
-          <a class="btn btn-sm z-depth-0" role="button">Review</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}

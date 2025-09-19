@@ -19,7 +19,7 @@ nav: false
 
 <div class="publications">
 
-{% bibliography --group_by none --query @*[issue=paper]* %}
+{% bibliography --group_by none --query @*[tab=paper]* %}
 
 </div>
 
