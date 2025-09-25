@@ -12,6 +12,7 @@ nav_order: 7
 ### inside 🔐
 
 <p align="left">
+<a href="https://ecsosaka-my.sharepoint.com/:x:/g/personal/u244108i_ecs_osaka-u_ac_jp/EZRKBZT_yERErJLjxBWVEVUBwHbKb5zRw18JFPIOS33p4A?e=agrJFz"> <img alt="aif" class="icon" src="/assets/img/linkicon/labware.png" style="height:86px; background-color:transparent;"></a>
 <a href="https://www-aif.eng.osaka-u.ac.jp"> <img alt="aif" class="icon" src="/assets/img/linkicon/aif.png" style="height:86px; background-color:transparent;"></a>
 <a href="https://www.opf.osaka-u.ac.jp/home"> <img alt="ressys" class="icon" src="/assets/img/linkicon/ressys.png" style="height:86px; background-color:transparent;"></a>
 <a href="https://occs.epc.osaka-u.ac.jp/"> <img alt="occs" class="icon" src="/assets/img/linkicon/occs.png" style="height:86px; background-color:transparent;"></a>
