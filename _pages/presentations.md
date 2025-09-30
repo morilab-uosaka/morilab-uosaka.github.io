@@ -48,5 +48,5 @@ nav: false
 
 3. **Excimer formation of fused chiral pyrene derivatives and their optical and chiroptical properties**, <u>Hareta NAKANE</u>, Zhe WANG, Tadashi MORI, International Conference on Chiroptical Science (ICCS-2025), September 19, 2025, Kyoto, Japan
 
-4. **nduction of Circularly Polarized Luminescence by Multivalently Grafting of Triphenylenes onto Cyclodextrin**, <u>Kentaro TAKAJI</u>, Hajime SHIGEMITSU, Tadashi MORI, Toshiyuki KIDA, International Conference on Chiroptical Science (ICCS-2025), September 19, 2025, Kyoto, Japan
+4. **Induction of Circularly Polarized Luminescence by Multivalently Grafting of Triphenylenes onto Cyclodextrin**, <u>Kentaro TAKAJI</u>, Hajime SHIGEMITSU, Tadashi MORI, Toshiyuki KIDA, International Conference on Chiroptical Science (ICCS-2025), September 19, 2025, Kyoto, Japan
 
