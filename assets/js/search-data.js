@@ -95,6 +95,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-日本試薬協会危険物に関する啓発動画を公開",
+          title: '日本試薬協会危険物に関する啓発動画を公開',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
