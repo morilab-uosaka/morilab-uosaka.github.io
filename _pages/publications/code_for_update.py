@@ -1,5 +1,5 @@
-for i in range(1993, 2026):
-	newbib = open(f'/Users/wangzhe/Desktop/test/publication{i}.md', 'w')
+for i in range(1993, 2027):
+	newbib = open(f'publication{i}.md', 'w')
 
 	newbib.write('---\n')
 	newbib.write('layout: page\n')
@@ -10,7 +10,7 @@ for i in range(1993, 2026):
 	newbib.write('<hr/>\n\n')
 
 	newbib.write('[all](https://morilab-uosaka.github.io/articles/)')
-	for j in range(2025, 1992, -1):
+	for j in range(2026, 1992, -1):
 		if j != i:
 			newbib.write(f' / [{j}](https://morilab-uosaka.github.io/articles/{j}/)')
 		else:
