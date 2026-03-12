@@ -100,6 +100,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
+            },},{id: "news-日本化学会-第106春季年会に参加します",
+          title: '日本化学会 第106春季年会に参加します',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
