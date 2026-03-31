@@ -105,7 +105,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
-            },},{
+            },},{id: "news-秦くん-d1-の論文が-anal-chem-に掲載されました",
+          title: '秦くん (D1) の論文が Anal. Chem. に掲載されました！',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
