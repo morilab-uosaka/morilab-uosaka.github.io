@@ -10,7 +10,7 @@ related_posts: false
 
 
 - [ラダー型ピレン誘導体エキシマーの円偏光発光特性に及ぼす置換パターンの効果](https://pub.confit.atlas.jp/ja/event/csj106th/presentation/E1133-1am-02)，○茨木 諒介，王 哲，森 直，E1133-1am-02 (口頭Ａ講演)，2026年3月17日，9:30~9:40
-- [ラダー型ピレンのエキシプレックス形成とその円偏光発光](https://pub.confit.atlas.jp/ja/event/csj106th/presentation/E1133-1am-05)，○小阪 龍世，王 哲，森 直，E1133-1am-05 (口頭Ａ講演)，2026年3月17日，10:00~10:00
+- [ラダー型ピレンのエキシプレックス形成とその円偏光発光](https://pub.confit.atlas.jp/ja/event/csj106th/presentation/E1133-1am-05)，○小阪 龍世，王 哲，森 直，E1133-1am-05 (口頭Ａ講演)，2026年3月17日，10:00~10:10
 - [水素結合性ヘキサアリールベンゼン誘導体を用いた円二色性センシング](https://pub.confit.atlas.jp/ja/event/csj106th/presentation/E1133-2pm-01)，○北浦 太一，王 哲，森 直，E1133-2pm-01 (口頭Ａ講演)，2026年3月18日，13:20~13:30
 - [架橋したカルバゾールダイマーにおけるエキシマーの円偏光発光に及ぼす分子内重なり効果](https://pub.confit.atlas.jp/ja/event/csj106th/presentation/E1133-2pm-02)，○久次米 智裕，王 哲，森 直，E1133-2pm-02 (口頭Ａ講演)，2026年3月18日，13:30~13:40
 - [ラダー型ピレン誘導体エキシマーの円偏光発光と温度効果](https://pub.confit.atlas.jp/ja/event/csj106th/presentation/E1133-2pm-04)，○中根 晴太，王 哲，森 直，E1133-2pm-04 (口頭Ａ講演)，2026年3月18日，13:50~14:00
