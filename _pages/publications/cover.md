@@ -39,4 +39,10 @@ nav: false
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/coverpic/cr2021.jpg" title="cr2021" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coverpic/csr2026.pdf" title="csr2026" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coverpic/ancham2026.jpg" title="ancham2026" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
