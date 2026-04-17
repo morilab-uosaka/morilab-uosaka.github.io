@@ -108,6 +108,9 @@ ninja.data = [{
             },},{id: "news-秦くん-d1-の論文が-anal-chem-に掲載されました",
           title: '秦くん (D1) の論文が Anal. Chem. に掲載されました！',
           description: "",
+          section: "News",},{id: "news-久次米くん-卒業生-の論文が-angew-chem-int-ed-にアクセプトされました",
+          title: '久次米くん (卒業生) の論文が Angew. Chem. Int. Ed. にアクセプトされました！',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
