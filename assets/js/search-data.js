@@ -111,7 +111,12 @@ ninja.data = [{
           section: "News",},{id: "news-久次米くん-卒業生-の論文が-angew-chem-int-ed-にアクセプトされました",
           title: '久次米くん (卒業生) の論文が Angew. Chem. Int. Ed. にアクセプトされました！',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-台湾からの沈さんが森研に加わりました",
+          title: '台湾からの沈さんが森研に加わりました',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
