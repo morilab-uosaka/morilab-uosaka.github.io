@@ -32,8 +32,6 @@ profiles:
     googlescholar: https://scholar.google.com.br/citations?user=gzUh6CMAAAAJ
     researchgate: https://www.researchgate.net/profile/Zhe-Wang-84/
     url: https://wongzit.github.io
-    bluesky: https://bsky.app/profile/wangzhe.bsky.social
-    twitter: oooooootetsu
     github: wongzit
 ---
 
