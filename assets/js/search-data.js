@@ -116,7 +116,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
-            },},{
+            },},{id: "news-岸本くん-b4-の論文が-chem-commun-に掲載されました",
+          title: '岸本くん (B4) の論文が Chem. Commun. に掲載されました！',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
