@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found | Mori Lab @UOsaka</title>
+  <meta name="robots" content="noindex">
+  <script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+  <script>
+    /* GitHub Pages shows this page for any address that doesn't exist.
+       1) Work out where the site lives (domain root, or a sub-folder for the test repo).
+       2) If the address is one of the OLD Jekyll addresses (/articles/, /member/, …),
+          jump straight to the new page, so old bookmarks and links keep working. */
+    (function () {
+      var ROUTES = {
+        "": "", "about": "", "news": "news.html", "research": "research.html", "projects": "research.html",
+        "member": "members.html", "members": "members.html", "mori": "mori.html",
+        "articles": "publications.html", "publications": "publications.html",
+        "articles/oripap": "papers.html", "articles/reviews": "reviews.html", "articles/cover": "covers.html",
+        "books": "books.html", "presentations": "presentations.html", "patents": "patents.html",
+        "links": "links.html", "join": "join.html", "gallery": ""
+      };
+      // The test repo is served from a sub-folder named "<something>.github.io"
+      // (e.g. https://wongzit.github.io/lab.github.io/); the live site from "/".
+      var first = location.pathname.split("/")[1] || "";
+      var base = /\.github\.io$/i.test(first) ? "/" + first + "/" : "/";
+      window.__BASE404 = base;
+
+      var rest = decodeURIComponent(location.pathname.slice(base.length)).replace(/\/+$/, "").replace(/\/index\.html$/, "").toLowerCase();
+      var target = null, m;
+      if (ROUTES.hasOwnProperty(rest)) target = ROUTES[rest];
+      else if ((m = rest.match(/^articles\/(\d{4})$/))) target = "publications.html?year=" + m[1];
+      else if ((m = rest.match(/^news\/(announcement_\d+)$/))) target = "news.html#" + m[1];
+      else if ((m = rest.match(/^bibliography\/([^\/]+?)(\.html)?$/))) target = "publications.html#" + m[1];
+      if (target !== null) { location.replace(base + target + location.search); return; }
+
+      // Not an old address: show the page below, styled like the rest of the site.
+      document.write('<link rel="stylesheet" href="' + base + 'assets/css/style.css?v=18">');
+      document.write('<link rel="icon" type="image/png" href="' + base + 'assets/img/favicon/favicon-32.png">');
+    })();
+  </script>
+</head>
+<body>
+  <div id="site-header"></div>
+  <main class="container reading notfound">
+    <h1>Page not found</h1>
+    <p class="muted">お探しのページは見つかりませんでした．</p>
+    <p>The address may have changed when the site was renewed. Start from the <a id="home-link" href="/">home page</a>, or try <a id="pubs-link" href="/publications.html">publications</a>.</p>
+  </main>
+  <div id="site-footer"></div>
+  <script>
+    (function () {
+      var b = window.__BASE404 || "/";
+      document.getElementById("home-link").href = b;
+      document.getElementById("pubs-link").href = b + "publications.html";
+      var s = document.createElement("script"); s.src = b + "assets/js/site.js?v=18"; document.body.appendChild(s);
+    })();
+  </script>
+</body>
+</html>

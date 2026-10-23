@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications | Mori Lab @UOsaka</title>
+  <meta name="description" content="森研究室の公表論文一覧．Publications of Mori Lab, The University of Osaka.">
+  <link rel="icon" type="image/png" href="assets/img/favicon/favicon-32.png">
+  <link rel="apple-touch-icon" href="assets/img/favicon/apple-touch-icon.png">
+  <script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+  <link rel="preload" href="data/papers.bib?v=18" as="fetch" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/style.css?v=18">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="container">
+    <header class="page-head">
+      <h1>Publications</h1>
+      <p class="lead">公表論文</p>
+    </header>
+
+    <!-- Every number and entry on this page comes from data/papers.bib.
+         To add a paper, edit that file only (GUIDE.md §6.4). -->
+    <ul class="pub-stats">
+      <li><b data-count="all">–</b>articles</li>
+      <li><b data-count="paper">–</b>original papers</li>
+      <li><b data-count="review">–</b>accounts &amp; reviews</li>
+      <li><b data-count="covers">–</b>cover pictures</li>
+    </ul>
+
+    <ul class="pub-tabs">
+      <li><a href="publications.html" aria-current="page">all articles</a></li>
+      <li><a href="papers.html">original papers</a></li>
+      <li><a href="reviews.html">accounts &amp; reviews</a></li>
+      <li><a href="covers.html">cover pictures</a></li>
+    </ul>
+
+    <div class="pub-search">
+      <label class="sr-only" for="pub-filter">Search publications</label>
+      <input id="pub-filter" class="pub-filter" type="search" placeholder="Search by title, author, journal or year" autocomplete="off">
+      <div class="pub-controls">
+        <select id="pub-year" class="pub-sort" aria-label="Show one year">
+          <option value="">全年 All years</option>
+        </select>
+        <select id="pub-sort" class="pub-sort" aria-label="Sort publications">
+          <option value="year">新しい順 Newest first</option>
+          <option value="cited">被引用数順 Most cited</option>
+        </select>
+      </div>
+      <span id="pub-status" aria-live="polite"></span>
+    </div>
+
+    <div id="pub-list"><p class="muted">Loading publications…</p></div>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="assets/js/site.js?v=18"></script>
+  <script src="assets/js/pubs.js?v=18"></script>
+  <script>renderPublications();</script>
+</body>
+</html>

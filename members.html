@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Members | Mori Lab @UOsaka</title>
+  <meta name="description" content="森研究室の構成員．Members of Mori Lab, The University of Osaka.">
+  <link rel="icon" type="image/png" href="assets/img/favicon/favicon-32.png">
+  <link rel="apple-touch-icon" href="assets/img/favicon/apple-touch-icon.png">
+  <script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+  <link rel="stylesheet" href="assets/css/style.css?v=18">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="container reading">
+    <header class="page-head">
+      <h1>Members</h1>
+      <p class="lead">研究室構成員</p>
+    </header>
+
+    <!-- ===== STAFF ===========================================================
+         One <article class="member"> per person, side by side (three per row;
+         a 4th, 5th … person starts the next row).
+         Copy a block to add someone.
+         Photos: assets/img/members/<name>.jpg (portrait, about 3:4).
+         E-mail: write the part before @ in data-u and after @ in data-d;
+         the address is assembled in the browser so spam bots can't read it. -->
+    <h2 class="roster-h" id="staff">Staff<small>教職員</small></h2>
+    <div class="members">
+
+      <article class="member">
+        <img class="member__photo" src="assets/img/members/mori.jpg" alt="森 直" width="250" height="333">
+        <div>
+          <h2>森 直<span class="romaji" lang="en">Tadashi MORI</span></h2>
+          <p class="member__role">教授<span lang="en">Professor</span></p>
+          <ul class="member__links">
+            <li><a href="mori.html">Profile</a></li>
+            <li><a class="email" data-u="tmori" data-d="epc.osaka-u.ac.jp">E-mail</a></li>
+            <li><a href="https://orcid.org/0000-0003-3918-0873">ORCID</a></li>
+            <li><a href="https://rd.iai.osaka-u.ac.jp/ja/3307973587e1d661.html">研究者総覧</a></li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="member">
+        <img class="member__photo" src="assets/img/members/tsunoi.jpg" alt="角井 伸次" width="500" height="667">
+        <div>
+          <h2>角井 伸次<span class="romaji" lang="en">Shinji TSUNOI</span></h2>
+          <p class="member__role">准教授<span lang="en">Associate Professor</span></p>
+          <ul class="member__links">
+            <li><a class="email" data-u="tsunoi" data-d="epc.osaka-u.ac.jp">E-mail</a></li>
+            <li><a href="https://orcid.org/0000-0003-1949-6221">ORCID</a></li>
+            <li><a href="https://rd.iai.osaka-u.ac.jp/ja/bcb3d76e4b5743f0.html">研究者総覧</a></li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="member">
+        <img class="member__photo" src="assets/img/members/wang.jpg" alt="王 哲" width="250" height="333">
+        <div>
+          <h2>王 哲<span class="romaji" lang="en">Zhe WANG</span></h2>
+          <p class="member__role">助教<span lang="en">Assistant Professor</span></p>
+          <ul class="member__links">
+            <li><a href="https://wongzit.github.io">Website</a></li>
+            <li><a class="email" data-u="wangzhe" data-d="epc.osaka-u.ac.jp">E-mail</a></li>
+            <li><a href="https://orcid.org/0000-0002-9996-586X">ORCID</a></li>
+            <li><a href="https://rd.iai.osaka-u.ac.jp/ja/137af188b80be1cd.html">研究者総覧</a></li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- Staff WITHOUT photo or links: class="member member--text", just the name and role.
+           Replace 姓 名 / Given FAMILY with the person's name. Delete a block to remove someone. -->
+
+
+    </div>
+
+    <!-- ===== STUDENTS & ALUMNI ============================================
+         These two lists are filled from data/students.js — edit THAT file
+         to add, change or move people (GUIDE.md §6.6). Each name links to
+         the person's own page (student.html?id=…) — but only once that page has
+         a paper, talk or award to show; until then the name is plain text. A list with nobody in it
+         is hidden automatically. -->
+    <section class="roster-section">
+      <h2 class="roster-h" id="students">Students<small>学生</small></h2>
+      <!-- three columns: doctoral / master's / undergraduate, sorted by the grade in data/students.js -->
+      <div class="cohorts" id="students-groups"></div>
+    </section>
+
+    <section class="roster-section">
+      <h2 class="roster-h" id="alumni">Alumni<small>卒業生</small></h2>
+      <!-- grouped by the year they left (newest first); several names per row -->
+      <div id="alumni-groups"></div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="data/students.js?v=18"></script>
+  <script src="data/presentations.js?v=18"></script>
+  <script src="assets/js/site.js?v=18"></script>
+  <script src="assets/js/pubs.js?v=18"></script>
+  <script src="assets/js/people.js?v=18"></script>
+  <script>renderRoster();</script>
+</body>
+</html>

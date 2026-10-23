@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Member | Mori Lab @UOsaka</title>
+  <meta name="description" content="森研究室メンバーの業績：論文，学会発表，受賞．">
+  <link rel="icon" type="image/png" href="assets/img/favicon/favicon-32.png">
+  <link rel="apple-touch-icon" href="assets/img/favicon/apple-touch-icon.png">
+  <script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+  <link rel="preload" href="data/papers.bib?v=18" as="fetch" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/style.css?v=18">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <!-- ONE page for every student and alumnus: the person is chosen by the
+       address, e.g. student.html?id=nakane. Everything on it comes from
+       data/students.js, data/presentations.js and data/papers.bib —
+       there is nothing to edit in this file. -->
+  <main class="container reading">
+    <p class="back-link"><a href="members.html#students">Members</a></p>
+    <header class="page-head student-head" id="student-head"></header>
+
+    <section id="sec-pubs" hidden>
+      <h2 class="roster-h">Publications<small>論文</small></h2>
+      <div id="stu-pubs" class="pub-selected"></div>
+    </section>
+
+    <section id="sec-talks" hidden>
+      <h2 class="roster-h">Presentations<small>学会発表</small></h2>
+      <ol class="talks" id="stu-talks" reversed></ol>
+    </section>
+
+    <section id="sec-awards" hidden>
+      <h2 class="roster-h">Awards<small>受賞</small></h2>
+      <ul class="awards" id="stu-awards"></ul>
+    </section>
+
+    <p class="muted" id="stu-empty" hidden lang="en">coming soon...</p>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="data/students.js?v=18"></script>
+  <script src="data/presentations.js?v=18"></script>
+  <script src="assets/js/site.js?v=18"></script>
+  <script src="assets/js/pubs.js?v=18"></script>
+  <script src="assets/js/people.js?v=18"></script>
+  <script>renderStudent();</script>
+</body>
+</html>

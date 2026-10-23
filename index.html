@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>森研究室 | Mori Lab @UOsaka</title>
+  <meta name="description" content="大阪大学 環境安全研究管理センター 森研究室．励起状態キラリティー，円偏光発光，不斉光反応，開殻π電子系の研究．Mori Lab, The University of Osaka.">
+  <link rel="icon" type="image/png" href="assets/img/favicon/favicon-32.png">
+  <link rel="apple-touch-icon" href="assets/img/favicon/apple-touch-icon.png">
+  <script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+  <link rel="stylesheet" href="assets/css/style.css?v=18">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="container">
+
+    <!-- ===== HERO ======================================================== -->
+    <section class="hero">
+      <div>
+        <p class="hero__lab">森研究室<span>Mori Lab, The University of Osaka</span></p>
+        <h1 class="hero__title" lang="en">Excited State Chirality</h1>
+        <p class="hero__intro en" lang="en">In our group, we focus on physical organic chemistry,  conduct a wide range of research at the interface of light and molecules. This concept plays a crucial role in photoreactions and photophysics. It encompasses the control of asymmetric photoreactions through both conventional and emerging strategies, including supramolecular interactions. Additionally, it involves elucidating the structure-property relationships of circular dichroism and circularly polarized luminescence from a materials perspective. Achieving this requires highly accurate excited state computations regarding conformation, energy, dynamics, and property calculations, along with human (and sometimes unconventional) intuition. We also work on developing new functional organic molecules by weakly bonded electron pairs, such as those found in diradicals.</p>
+      </div>
+      <div class="hero__mark">
+        <img src="assets/img/lab_logo.png" alt="Mori Lab logo: Excited State Chirality, Mori Lab UOsaka, since 2025" width="400" height="371">
+      </div>
+    </section>
+
+    <!-- ===== GROUP PHOTO ==================================================
+         To change it, replace BOTH files and keep the names:
+         assets/img/home/group.jpg (2000 px wide) and group-1000.jpg (1000 px wide, for phones). -->
+    <figure class="group-photo">
+      <img src="assets/img/home/group.jpg" srcset="assets/img/home/group-1000.jpg 1000w, assets/img/home/group.jpg 2000w" sizes="(max-width: 1120px) 100vw, 1072px" alt="Mori Lab members" width="2000" height="1500" fetchpriority="high">
+    </figure>
+
+    <!-- ===== NEWS (edit data/news.js) ====================================== -->
+    <section class="home-news">
+      <div class="section-head">
+        <h2>News<small>ニュース</small></h2>
+        <a href="news.html">すべて見る All news</a>
+      </div>
+      <div id="home-news"></div>
+    </section>
+
+    <!-- ===== ACCESS ======================================================== -->
+    <section>
+      <div class="section-head"><h2>Access<small>アクセス</small></h2></div>
+      <div class="access">
+        <img class="access__photo" src="assets/img/home/building.jpg" alt="環境安全研究管理センターの建物" width="800" height="1118" loading="lazy">
+        <div>
+          <address>
+            大阪大学 環境安全研究管理センター<br>
+            大学院工学研究科 応用化学専攻 分子創成化学コース（協力講座）<br>
+            環境化学講座 森研究室<br>
+            〒565-0871 大阪府吹田市山田丘2-4<br>
+            <span class="en" lang="en">Research Center for Environmental Preservation, The University of Osaka<br>
+            2-4 Yamadaoka, Suita, Osaka 565-0871, Japan</span>
+          </address>
+          <iframe class="map-embed" title="Map: Environmental Safety Research Management Center, The University of Osaka" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d204.71593497285642!2d135.52477955818176!3d34.819651953421456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000fb60db96a653%3A0xd30c1842c41faacf!2z5aSn6Ziq5aSn5a2mIOeSsOWig-WuieWFqOeglOeptueuoeeQhuOCu-ODs-OCv-ODvA!5e0!3m2!1sja!2sjp!4v1755089171048!5m2!1sja!2sjp"></iframe>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== AFFILIATIONS ================================================== -->
+    <nav class="affil" aria-label="Affiliations">
+      <a href="https://www.osaka-u.ac.jp/ja"><img src="assets/img/affil/uosaka.png" alt="大阪大学 The University of Osaka" width="472" height="172" loading="lazy"></a>
+      <a href="https://www.eng.osaka-u.ac.jp/ja/"><img src="assets/img/affil/eng.png" alt="大阪大学 工学研究科" width="472" height="172" loading="lazy"></a>
+      <a href="https://www.applchem.eng.osaka-u.ac.jp"><img src="assets/img/affil/appchem.png" alt="応用化学専攻" width="472" height="172" loading="lazy"></a>
+      <a href="http://www.epc.osaka-u.ac.jp"><img src="assets/img/affil/epc.png" alt="環境安全研究管理センター" width="472" height="172" loading="lazy"></a>
+    </nav>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="data/news.js?v=18"></script>
+  <script src="assets/js/site.js?v=18"></script>
+  <script src="assets/js/news.js?v=18"></script>
+  <script>renderNews("home-news", { limit: 5 });</script>
+</body>
+</html>

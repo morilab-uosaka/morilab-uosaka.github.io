@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>News | Mori Lab @UOsaka</title>
+  <meta name="description" content="森研究室のニュース．News from Mori Lab, The University of Osaka.">
+  <link rel="icon" type="image/png" href="assets/img/favicon/favicon-32.png">
+  <link rel="apple-touch-icon" href="assets/img/favicon/apple-touch-icon.png">
+  <script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+  <link rel="stylesheet" href="assets/css/style.css?v=18">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="container reading">
+    <header class="page-head">
+      <h1>News</h1>
+      <p class="lead">ニュース</p>
+    </header>
+
+    <!-- The list is drawn from data/news.js — edit that file, not this one. -->
+    <div id="news-all"></div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="data/news.js?v=18"></script>
+  <script src="assets/js/site.js?v=18"></script>
+  <script src="assets/js/news.js?v=18"></script>
+  <script>renderNews("news-all");</script>
+</body>
+</html>

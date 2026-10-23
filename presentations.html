@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Presentations | Mori Lab @UOsaka</title>
+  <meta name="description" content="森研究室の学会発表．Conference presentations by Mori Lab.">
+  <link rel="icon" type="image/png" href="assets/img/favicon/favicon-32.png">
+  <link rel="apple-touch-icon" href="assets/img/favicon/apple-touch-icon.png">
+  <script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+  <link rel="stylesheet" href="assets/css/style.css?v=18">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="container reading">
+    <header class="page-head">
+      <h1>Presentations</h1>
+      <p class="lead">学会発表</p>
+    </header>
+
+    <!-- The list is drawn from data/presentations.js — edit that file, not this one.
+         It is grouped by academic year automatically (a talk in March 2026 goes under AY2025).
+         Talks also appear on each student's page automatically. -->
+    <div id="talks"></div>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="data/students.js?v=18"></script>
+  <script src="data/presentations.js?v=18"></script>
+  <script src="assets/js/site.js?v=18"></script>
+  <script src="assets/js/people.js?v=18"></script>
+  <script>renderTalks();</script>
+</body>
+</html>
