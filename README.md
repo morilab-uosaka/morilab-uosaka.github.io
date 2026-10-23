@@ -4,7 +4,6 @@
 Website of Mori Lab, Environmental Safety Research Management Center, The University of Osaka.
 
 - Live: https://morilab-uosaka.github.io/
-- Test: https://wongzit.github.io/lab.github.io/
 
 Plain static HTML/CSS/JS served by GitHub Pages — no Jekyll, no build step.
 Publications are read directly from [`data/papers.bib`](data/papers.bib); news from [`data/news.js`](data/news.js).
