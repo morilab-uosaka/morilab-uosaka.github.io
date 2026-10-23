@@ -299,15 +299,21 @@ the visitor's system setting until they press the 🌙/☀️ button.
 Fonts are the system's own (Hiragino on Mac/iPhone, Yu Gothic/Segoe on
 Windows, Noto on Android) — no downloads, which keeps pages fast.
 
-**Mouse cursor.** The spring cursor is set in the `html { cursor: … }` block
-near the top of `style.css`, using **`assets/img/cursor-1x.png`** (34 × 26 px)
-and **`cursor-2x.png`** (the same at double size, for Retina screens). The
-large `assets/img/cursor.png` is only the source picture — it is not loaded by
-the site. To change the cursor, make new small copies under the same two names
-(a cursor image must be 128 px or smaller; 30–50 px wide works well) and, if the
-tip moves, change the click point `33 17` (x y in pixels from the top-left of the
-1x image) in all three `cursor:` lines. Links keep
-the hand cursor. Phones and tablets have no cursor, so nothing changes there.
+**Mouse cursor.** The spring cursor is **red in light mode and blue in dark
+mode**. It is set in three `cursor:` blocks near the top of `style.css` (light,
+dark via the 🌙 button, dark via the computer's setting).
+
+| Mode | Small files used by the site | Click point | Source picture (not loaded) |
+| --- | --- | --- | --- |
+| Light | `assets/img/cursor-light-1x.png` (34 × 27) + `cursor-light-2x.png` | `33 10` | `assets/img/cursor-red.png` |
+| Dark | `assets/img/cursor-dark-1x.png` (34 × 26) + `cursor-dark-2x.png` | `33 17` | `assets/img/cursor.png` |
+
+The `-2x` file is the same picture at double size for Retina screens. To change
+a cursor, make new small copies under the same names (a cursor image must be
+128 px or smaller; 30–50 px wide works well) and, if the arrow tip moves, change
+its click point (x y in pixels from the top-left of the 1x image) in every
+`cursor:` line of that mode. Links keep the hand cursor. Phones and tablets
+have no cursor, so nothing changes there.
 
 ### 6.4 Publications (papers.bib)
 
