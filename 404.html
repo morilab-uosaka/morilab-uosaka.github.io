@@ -35,8 +35,8 @@
       if (target !== null) { location.replace(base + target + location.search); return; }
 
       // Not an old address: show the page below, styled like the rest of the site.
-      document.write('<link rel="stylesheet" href="' + base + 'assets/css/style.css?v=18">');
-      document.write('<link rel="icon" type="image/png" href="' + base + 'assets/img/favicon/favicon-32.png">');
+      document.write('<link rel="stylesheet" href="' + base + 'assets/css/style.css?v=19">');
+      document.write('<link rel="icon" type="image/png" href="' + base + 'assets/img/favicon/favicon-32.png?v=19">');
     })();
   </script>
 </head>
@@ -53,7 +53,7 @@
       var b = window.__BASE404 || "/";
       document.getElementById("home-link").href = b;
       document.getElementById("pubs-link").href = b + "publications.html";
-      var s = document.createElement("script"); s.src = b + "assets/js/site.js?v=18"; document.body.appendChild(s);
+      var s = document.createElement("script"); s.src = b + "assets/js/site.js?v=19"; document.body.appendChild(s);
     })();
   </script>
 </body>
