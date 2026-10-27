@@ -8,7 +8,7 @@
 
 const SITE = {
   // Logo at the top-left of every page. Use a SQUARE image (it is shown 36 × 36).
-  logo: "/assets/img/lab_logo.png?v=20",
+  logo: "/assets/img/lab_logo.png?v=21",
 
   // Text next to the logo.
   brandText: '<strong>Mori Lab</strong><span class="brand-sub">UOsaka</span>',

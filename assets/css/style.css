@@ -274,6 +274,8 @@ main { padding: 48px 0 80px; min-height: 60vh; overflow-x: clip; }   /* the logo
 .member__photo { width: 112px; aspect-ratio: 3 / 4; object-fit: cover; border-radius: var(--r); background: var(--surface-2); display: block; }
 .member h2 { margin: 0; font-size: 1.2rem; }
 .member h2 .romaji { display: block; font-size: .88rem; font-weight: 500; color: var(--text-dim); letter-spacing: .02em; margin-top: 2px; }
+.member h2 a { color: var(--accent); }                                    /* name → 研究者総覧 page (same look as linked student names) */
+.member h2 a:hover { color: var(--spiral); text-decoration: none; }
 .member__role { margin: 6px 0 12px; color: var(--ink); font-size: .95rem; }
 .member__role span { color: var(--text-dim); margin-left: .4em; }
 .member__role .member__pi { display: block; margin: 2px 0 0; font-size: .88rem; }   /* "Principal Investigator" on its own line */

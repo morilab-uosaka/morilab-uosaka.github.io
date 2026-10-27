@@ -382,8 +382,10 @@ and a link) and as a COVER button on the paper itself.
 ### 6.6 Members and Prof. Mori's page
 
 **`members.html`** — one `<article class="member">` block per person; copy one
-to add someone. Photo: `assets/img/members/name.jpg`, portrait ≈ 3:4. E-mail is
-written as two halves so spam bots can't read it:
+to add someone. Photo: `assets/img/members/name.jpg`, portrait ≈ 3:4. The
+person's **name links to their 研究者総覧 page** (put the address in the
+`<a href="…">` inside `<h2>`); the buttons below it are for Profile, E-mail,
+ORCID, Website. E-mail is written as two halves so spam bots can't read it:
 
 ```html
 <a class="email" data-u="wangzhe" data-d="epc.osaka-u.ac.jp">E-mail</a>

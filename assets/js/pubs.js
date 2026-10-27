@@ -10,7 +10,7 @@
 
 /* ---- Settings ------------------------------------------------------------ */
 // Bump ?v= here together with the rest of the site whenever papers.bib changes.
-const BIB_FILE = "data/papers.bib?v=20";
+const BIB_FILE = "data/papers.bib?v=21";
 
 // Lab members whose names are highlighted in author lists.
 // "first" is matched by its initial, so "Mori, T." also counts.
