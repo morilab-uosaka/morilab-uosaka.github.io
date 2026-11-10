@@ -65,12 +65,22 @@ window.PRESENTATIONS = [
     title: "イミド化[7]ヘリセンの蛍光ソルバトクロミズムおよびCPL特性におよぼすイミド縮環位置の影響",
     authors: "○岡本 秀毅，野勢 勁斗，森 直，山路 稔，谷 文都", event: "2026年光化学討論会", code: "3C04",
     place: "神戸大学鶴甲第1キャンパス"},
+
+  { date: "2026-09-14", scope: "domestic",
+    title: "Cu-catalyzed Stereoinvertive Borylation of Alkenyl Sulfoximines",
+    authors: "○安井 孝介，馬場 皓生，藤原 杏輔，王 哲，森 直，平野 康次", event: "第72回有機金属化学討論会", code: "PA24",
+    place: "札幌サンプラザ"},
    
   /* 日本分析化学会第75年会 (September 2026) */
   { date: "2026-09-16", scope: "domestic",
-    title: "ケイ素試薬を用いた化学イオン化質量分析法により 生成する芳香族アミンジラジカルカチオンの反応性の解明",
+    title: "ケイ素試薬を用いた化学イオン化質量分析法により生成する芳香族アミンジラジカルカチオンの反応性の解明",
     authors: "○秦 子皓，角井 伸次，王 哲，森 直", event: "日本分析化学会第75年会", code: "P3045",
     place: "東北大学青葉山新キャンパス"},
+
+  { date: "2026-09-17", scope: "domestic",
+    title: "Synthesis and Chiroptical Properties of Luminescent Nitridohenium(V) Complexes with Axial Amine-Nitrogen Chirality",
+    authors: "○Sodai MIYAMOTO, Zhe WANG, Tadashi MORI, Takashi YOSHIMURA", event: "錯体化学会第76回討論会", code: "1Ba-03",
+    place: "京都大学吉田キャンパス"},
 
   /* 第55回複素環化学討論会 (October 2026) */
   { date: "2026-10-08", scope: "domestic",
