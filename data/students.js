@@ -44,7 +44,7 @@ window.STUDENTS = [
   { id: "ibaragi",   ja: "茨木 諒介",   en: "Ryosuke IBARAGI",  grade: "M1" },
   { id: "nakatsu",   ja: "中津 皐稀",   en: "Koki NAKATSU",     grade: "M1" },
   { id: "hayashi",   ja: "林 慶次郎",   en: "Keijiro HAYASHI",  grade: "M1" },
-  { id: "uno",       ja: "宇野 芽依",   en: "Mei UNO",          grade: "B4" },
+  { id: "uno",       ja: "宇野 芽依",   en: "May UNO",          grade: "B4" },
   { id: "kunitate",  ja: "國立 昂希",   en: "Koki KUNITATE",    grade: "B4" },
   { id: "kishimoto", ja: "岸本 信人",   en: "Nobuhito KISHIMOTO", grade: "B4" },
 
